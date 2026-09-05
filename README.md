@@ -1,2 +1,2 @@
 # C# učeníčko
-první repository, program ktery se da použít v restaraci.
+Repository s mými projekty
