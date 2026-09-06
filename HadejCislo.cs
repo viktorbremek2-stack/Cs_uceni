@@ -21,7 +21,7 @@ class Program
       }
       if (tip == tajneCislo)
       {
-        Console.WriteLine("Uhodl jsi tajné číslo!!!");
+        Console.WriteLine("Uhodl jsi tajné číslo!!! Gratuluji";
 
       }
     }
