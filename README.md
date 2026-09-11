@@ -1,2 +1,2 @@
-# C# učeníčko
+# C#
 Repository s mými projekty
